@@ -14,4 +14,4 @@ Given two people's calendars, daily bounds, and a meeting duration, return free 
 Calculate the horizontal position and depth you would have after following the planned course. What do you get if you multiply your final horizontal position by your final depth?
 
 **Part 2:**   
-
+Continuation from part 1, instructions alter values in a different way.
